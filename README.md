@@ -11,6 +11,6 @@ It is just a part of the project on which I am still working
 
 The R file is a part of my final project during undergraduate study. I tried to solve the log likelihood function of a Probit Model
 
-The project is aimed to predict the winning chance of Hong Kong Horse rates, the code is trying to solve the likelihood function
+The project is aimed to predict the winning chance of Hong Kong Horse Race, the code is trying to solve the likelihood function
 
 In the model I applied Gaussian-Hermite Quadrature to simplify the likelihood function and use Newton-Raphson method to approximate the solution
