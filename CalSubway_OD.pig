@@ -130,4 +130,3 @@ subway_station_mor_eve_in_flow_topi = FOREACH subway_yuejun_ord_grp {
 	top10 = LIMIT sort $i;
 	GENERATE FLATTEN(top10) AS (is_holiday:chararray,station_name1:chararray,period:chararray,avg_num:long);
 };
-
